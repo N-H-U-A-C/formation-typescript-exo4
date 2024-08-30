@@ -1,0 +1,9 @@
+export const ID_FORM_CONTACT = "form";
+export const ID_INPUT_TITLE = "title";
+export const ID_INPUT_FIRSTNAME = "firstName";
+export const ID_INPUT_LASTNAME = "lastName";
+export const ID_INPUT_DATEOFBIRTH = "dateOfBirth";
+export const ID_INPUT_PHONENUMBER = "phoneNumber";
+export const ID_INPUT_EMAIL = "email";
+export const ID_DIV_CONTACTS = "contacts";
+export const ID_BUTTON_ADD = "buttonAdd";
